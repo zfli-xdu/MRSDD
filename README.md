@@ -20,27 +20,27 @@ In the following, some acquired images are provided to offer a clear demonstrati
 
 ### (1) Outer Missing Piece
 
-![](images/e46db0d3e5a5f8665a1f1656a3891c4837492ff8.jpg)
+![](https://github.com/zfli-xdu/MRSDD/blob/master/demos/outer_misspiece/outer_misspiece.jpg?raw=true)
 
 ### (2) Inner Missing Piece
 
-![](images/5762110b70d3e8e188a8261e1317dadb81a0068c.jpg)
+![](https://github.com/zfli-xdu/MRSDD/blob/master/demos/inner_misspiece/inner_misspiece.jpg?raw=true)
 
 ### (3) Impurity
 
-![](images/93996cb9f197356ff6a69dfff23977362631afcd.jpg)
+![](https://github.com/zfli-xdu/MRSDD/blob/master/demos/impurities/impurities.jpg?raw=true)
 
 ### (4) Crack
 
-![](images/6b75e88c5900653c88b9de2b275c2cb866bf53cb.jpg)
+![](https://github.com/zfli-xdu/MRSDD/blob/master/demos/crack/crack.jpg?raw=true)
 
 ### (5) Circle Crack
 
-![](images/ede578546068fe62568f2e28c4cac6ab7f3705f5.jpg)
+![](https://github.com/zfli-xdu/MRSDD/blob/master/demos/circle_crack/circle_crack.jpg?raw=true)
 
 ### (6) Mucosa
 
-![](images/b865b290d080da361deef70c6e48cdc9ba88f5fd.jpg)
+![](https://github.com/zfli-xdu/MRSDD/blob/master/demos/mucosa/mucosa.jpg?raw=true)
 
 If you want to browse more images, you can use the script (utils/visualize.py) provided in the downloaded files. The usage is as follows:
 
