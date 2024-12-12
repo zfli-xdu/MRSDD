@@ -12,8 +12,6 @@ The released subset of the MRSDD can be downloaded from the following addresses:
 
 - Quark Netdisk: https://pan.quark.cn/s/843baf3916b4 (code: 1Aip)
 
-
-
 ## MRSDD
 
 MRSDD contains six typical surface defects that may occur on a magnetic ring: ***outer missing piece***, ***inner missing piece***, ***impurity, crack***, ***circle crack***, and ***mucosa***.
@@ -49,5 +47,3 @@ If you want to browse more images, you can use the script (utils/visualize.py) p
 - browse by image path or directory: "python utils/visualize.py -p images/"
 
 - browse by defect category: "python utils/visualize.py -c crack"
-
-
